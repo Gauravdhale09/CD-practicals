@@ -1,0 +1,10 @@
+No Multiline Comment content is displayed in new.txt..
+
+
+how to run the code
+
+1) flex comment2.l
+
+2) gcc lex.yy.c
+
+3) a.exe
