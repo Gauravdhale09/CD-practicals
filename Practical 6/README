@@ -1,0 +1,8 @@
+
+how to run the code
+
+1) flex lextool.l
+
+2) gcc lex.yy.c
+
+3) a.exe
