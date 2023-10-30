@@ -1,0 +1,7 @@
+commands to run code
+
+1) flex count_no_lines_words.l
+
+2) gcc lex.yy.c
+
+3) a.exe
